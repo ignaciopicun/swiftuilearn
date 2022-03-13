@@ -1,10 +1,3 @@
-//
-//  swiftuilearnApp.swift
-//  swiftuilearn
-//
-//  Created by Nacho on 3/12/22.
-//
-
 import SwiftUI
 
 @main
